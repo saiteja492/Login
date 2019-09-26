@@ -16,7 +16,23 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.cardDetail{
+  margin-bottom: 10px;
+  margin-left: 5px;
+  margin-top:10px;
+}
 .App-link {
   color: #09d3ac;
+}
+.dashboardContainer{
+  padding-toP:15;
+  margin: auto;
+  
+  
+}
+
+.formcontainer{
+  width: 300px;
+  padding-top: 80px;
+  margin: auto;
 }
