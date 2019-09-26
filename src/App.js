@@ -14,39 +14,14 @@ import Routes from './routes';
 
        <Provider store={store}>
        <Router>
-      
-
-<Routes />
-
-       </Router>
+        <Routes />
+        </Router>
        </Provider>
      
      )
    }
  }
 
-// function App() {
-//    return (
-//     <div className="App">
-//       <header className="App-header">
-//         <p>Login</p>
-//         <form>
-//   <label>
-//     UserName:
-//     <input type="text" name="name" />
-//     <br />
-//     Password:
-//     <input type="text" name="name" />
-//   </label>
-//   <br />
-//   {/* <input type="submit" value="Login" /> */}
-//     <button >
-//       Login
-//     </button>
-//   </form>
-//       </header>
-//     </div>
-//   );
-// }
+
 
 export default App;
